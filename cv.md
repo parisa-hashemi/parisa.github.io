@@ -1,24 +1,24 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
+permalink: //
 title: Resume
-tags: [resume, cv]
+tags: [resume, ]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# sport
 
-werwe
-rwe
+swimming
+
 
 ## Tehran
-lsdfksd
+shahryar
 
-### Azadi
-### Enghelab
+### Iran
+### bentolhoda
 
 - mored 1
 - mored 2
