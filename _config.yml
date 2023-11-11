@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "پریساهاشمی"
 title_separator          : "-"
 name                     : "Parisa Hashemi" 
-description              : "Welcome to my web site."
+description              : "Welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : parisa-hashemi
 facebook:
-  username               : sauleh.eetemadi
+  username               : parisa.hashemi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,15 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "parisa Hashemi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "c:\Users\user\Downloads\X4CsRjCQdk8Pq0x.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : phashemi775@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: parisa-hashemi
+  instagram: parisa Hashemi
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
