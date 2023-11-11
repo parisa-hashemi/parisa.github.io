@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "parisa Hashemi"
-  avatar           : "c:\Users\user\Downloads\X4CsRjCQdk8Pq0x.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : phashemi775@gmail.com
